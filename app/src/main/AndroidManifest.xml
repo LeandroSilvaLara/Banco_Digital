@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BancoDigital">
         <activity
+            android:name=".autenticacao.RecuperarContaActivity"
+            android:exported="false" />
+        <activity
             android:name=".autenticacao.LoginActivity"
             android:exported="false" />
         <activity
