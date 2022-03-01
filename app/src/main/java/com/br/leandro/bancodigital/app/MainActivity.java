@@ -1,8 +1,10 @@
-package com.br.leandro.bancodigital;
+package com.br.leandro.bancodigital.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.br.leandro.bancodigital.R;
 
 public class MainActivity extends AppCompatActivity {
 

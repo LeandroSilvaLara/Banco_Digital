@@ -19,7 +19,7 @@
             android:name=".autenticacao.LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".app.MainActivity"
             android:exported="false" />
         <activity
             android:name=".app.SplashActivity"

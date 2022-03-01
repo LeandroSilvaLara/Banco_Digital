@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.br.leandro.bancodigital.MainActivity;
+import com.br.leandro.bancodigital.app.MainActivity;
 import com.br.leandro.bancodigital.R;
 import com.br.leandro.bancodigital.helper.FirebaseHelper;
 
