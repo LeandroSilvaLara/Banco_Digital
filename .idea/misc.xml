@@ -8,9 +8,11 @@
         <entry key="..\:/Android_java/app/src/main/res/drawable/bg_edit.xml" value="0.3553846153846154" />
         <entry key="..\:/Android_java/app/src/main/res/drawable/ic_celular_login.xml" value="0.1984375" />
         <entry key="..\:/Android_java/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1984375" />
+        <entry key="..\:/Android_java/app/src/main/res/drawable/ic_logo.xml" value="0.3609375" />
         <entry key="..\:/Android_java/app/src/main/res/layout/activity_cadastro.xml" value="0.22" />
         <entry key="..\:/Android_java/app/src/main/res/layout/activity_login.xml" value="0.3307291666666667" />
         <entry key="..\:/Android_java/app/src/main/res/layout/activity_recuperar_conta.xml" value="0.3307291666666667" />
+        <entry key="..\:/Android_java/app/src/main/res/layout/activity_splash.xml" value="0.34479166666666666" />
       </map>
     </option>
   </component>

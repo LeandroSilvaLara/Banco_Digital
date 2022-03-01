@@ -6,4 +6,9 @@
        <item name="colorAccent">@color/colorPrimary</item>
        <item name="android:navigationBarColor">@color/colorPrimary</item>
     </style>
+
+    <style name="Theme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/white</item>
+        <item name="colorAccent">@android:color/white</item>
+    </style>
 </resources>
