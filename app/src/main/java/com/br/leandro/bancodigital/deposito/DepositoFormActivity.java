@@ -15,6 +15,6 @@ public class DepositoFormActivity extends AppCompatActivity {
         setContentView(R.layout.activity_deposito_form);
 
 
-        TestLooperManager()
+
     }
 }
