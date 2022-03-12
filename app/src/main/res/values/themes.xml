@@ -11,4 +11,13 @@
         <item name="colorPrimaryDark">@android:color/white</item>
         <item name="colorAccent">@android:color/white</item>
     </style>
+
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/bg_aler_dialog</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+    </style>
+
+    <style name="Theme.ProgressBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
 </resources>
